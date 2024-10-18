@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @glacial-dev
 
-I’m a C++ programmer with over 20 years of experience, coming straight from the last century! Currently, I’m excited about exploring all aspects of web development technology.
+I’m a C++ programmer with over 25 years of experience, coming straight from the last century! Currently, I’m excited about exploring all aspects of web development technology.
 So excited to learn and grow within this community!
 
 ## 👀 I’m interested in:
